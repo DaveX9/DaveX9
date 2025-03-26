@@ -1,11 +1,13 @@
+# 💫 About Me:
+Hey there! I'm Sahadev Xettri, a computer science student and a full-stack web developer. I love building cool websites and applications.<br><br>🔭 Currently working on web projects and learning new tech.<br><br>👯 Open to collaborating on anything web-related.<br><br>🤝 Always happy to help with coding problems or debugging nightmares.<br><br>🌱 Learning new tricks to make websites faster and better.<br><br>💬 Ask me about web development, JavaScript, or just tech in general!<br><br>⚡ Fun fact: I run on coffee and late-night coding sessions.<br><br>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaveX9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveX9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-# 💫 About Me:
-Hey there! I'm Sahadev Xettri, a computer science student and a full-stack web developer. I love building cool websites and applications.<br><br>🔭 Currently working on web projects and learning new tech.<br><br>👯 Open to collaborating on anything web-related.<br><br>🤝 Always happy to help with coding problems or debugging nightmares.<br><br>🌱 Learning new tricks to make websites faster and better.<br><br>💬 Ask me about web development, JavaScript, or just tech in general!<br><br>⚡ Fun fact: I run on coffee and late-night coding sessions.<br><br>
 
 
 <div align="left">
