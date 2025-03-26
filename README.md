@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Sahadev Xettri, a computer science student and a full-stack web developer. I love building cool websites and applications.<br><br>🔭 Currently working on web projects and learning new tech.<br><br>👯 Open to collaborating on anything web-related.<br><br>🤝 Always happy to help with coding problems or debugging nightmares.<br><br>🌱 Learning new tricks to make websites faster and better.<br><br>💬 Ask me about web development, JavaScript, or just tech in general!<br><br>⚡ Fun fact: I run on coffee and late-night coding sessions.<br><br>
+Hello World!, I'm I'm Sahadev Xettri, a computer science student and a full-stack web developer. sessions.<br>
 
 
 <div align="center">
